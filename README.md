@@ -23,8 +23,11 @@ Voice-Command-Assistant/
 ## You can speak or type a command like:
 
 open google
+
 play music
+
 who is Virat Kohli
+
 chat: tell me a joke
 
 
