@@ -20,6 +20,13 @@ Voice-Command-Assistant/
 ├── README.md # This file
 ├── requirements.txt # Python dependencies
 └── assets/ # (Optional) Extra files like icons or screenshots
+## You can speak or type a command like:
+
+open google
+play music
+who is Virat Kohli
+chat: tell me a joke
+
 
 
 ## 🛠️ Requirements
@@ -33,12 +40,3 @@ Voice-Command-Assistant/
 pip install pyttsx3 speechrecognition wikipedia pywhatkit openai pillow
 
 pip install playsound==1.2.2
-
----
-
-You can speak or type a command like:
-
-open google
-play music
-who is Virat Kohli
-chat: tell me a joke
