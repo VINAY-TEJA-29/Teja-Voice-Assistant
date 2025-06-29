@@ -2,6 +2,8 @@
 
 Teja is a personal voice-controlled desktop assistant built using Python and Tkinter. It responds to voice or typed commands, performs actions like opening websites, playing music, and answering questions using ChatGPT.
 
+---
+
 ## 🎯 Features
 
 - 🎤 Voice recognition and speech output
