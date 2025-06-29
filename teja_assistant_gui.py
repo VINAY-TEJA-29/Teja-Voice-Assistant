@@ -13,7 +13,7 @@ engine = pyttsx3.init()
 engine.setProperty("rate", 150)
 
 # OpenAI API key
-openai.api_key = "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"
+openai.api_key = "sk-proj-kEwtVV6XZCFvU1TA"
 
 # Functions
 def speak(text):
