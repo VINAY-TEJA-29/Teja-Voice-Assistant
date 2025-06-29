@@ -33,13 +33,12 @@ Voice-Command-Assistant/
 pip install pyttsx3 speechrecognition wikipedia pywhatkit openai pillow
 
 pip install playsound==1.2.2
-----
+
+---
+
 You can speak or type a command like:
 
 open google
-
 play music
-
 who is Virat Kohli
-
 chat: tell me a joke
