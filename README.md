@@ -24,6 +24,9 @@ Voice-Command-Assistant/
 ├── README.md # This file
 ├── requirements.txt # Python dependencies
 └── assets/ # (Optional) Extra files like icons or screenshots
+
+--- 
+
 ## You can speak or type a command like:
 
 - open google
