@@ -13,6 +13,8 @@ Teja is a personal voice-controlled desktop assistant built using Python and Tki
 - 🖼️ Custom GUI with your name, photo, and intro music
 - 🧪 "Hey Teja" wake word supported
 
+--- 
+
 ## 📁 Folder Structure
 
 Voice-Command-Assistant/
@@ -28,6 +30,8 @@ Voice-Command-Assistant/
 - play music
 - who is Virat Kohli
 - chat: tell me a joke
+
+--- 
 
 ## 🛠️ Requirements
 
