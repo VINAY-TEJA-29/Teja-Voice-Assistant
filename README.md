@@ -22,10 +22,10 @@ Voice-Command-Assistant/
 └── assets/ # (Optional) Extra files like icons or screenshots
 ## You can speak or type a command like:
 
--open google
--play music
--who is Virat Kohli
--chat: tell me a joke
+- open google
+- play music
+- who is Virat Kohli
+- chat: tell me a joke
 
 ## 🛠️ Requirements
 
