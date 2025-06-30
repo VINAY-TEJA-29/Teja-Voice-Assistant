@@ -22,8 +22,6 @@ Voice-Command-Assistant/
 ├── intro.mp3 # Intro music (optional)
 ├── teja.jpg # Display photo
 ├── README.md # This file
-├── requirements.txt # Python dependencies
-└── assets/ # (Optional) Extra files like icons or screenshots
 
 --- 
 
